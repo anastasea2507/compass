@@ -1,0 +1,11 @@
+Model Information:
+* title:	Сompass Pools Model Aqua110
+* source:	https://sketchfab.com/3d-models/ompass-pools-model-aqua110-c2ddaacc394c42d6a2e32aa3bd8d19c5
+* author:	anast.popo (https://sketchfab.com/anast.popo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Сompass Pools Model Aqua110" (https://sketchfab.com/3d-models/ompass-pools-model-aqua110-c2ddaacc394c42d6a2e32aa3bd8d19c5) by anast.popo (https://sketchfab.com/anast.popo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
